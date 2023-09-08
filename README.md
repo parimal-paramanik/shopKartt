@@ -17,8 +17,11 @@ to start the project 1. simply clone  the project,
 3.go to index.js in my-project from terminal 
 4.fire npm run start..
 
+Screenshots
+Screenshot 1
+Description of Screenshot 1.
 
-
+Screenshot 2
 loom video link for output : https://www.loom.com/share/03353dcb2c44430d9b284267e53ea627?sid=e7d4d65a-ea91-46bd-98cb-3010e3db53b2
 
 Deployed netlify link : https://astounding-cuchufli-ec3816.netlify.app/
